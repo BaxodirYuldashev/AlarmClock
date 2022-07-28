@@ -25,6 +25,7 @@ AlarmClock with Timer and Stopwatch
 <p>
   
 <img src="https://user-images.githubusercontent.com/107529020/181400802-f92fb762-5eaf-4c87-ade4-4ef94f54ad76.png" height="500" width="230"/>
+<img src="https://user-images.githubusercontent.com/107529020/181401533-02eeb6dd-b966-4e80-8ac9-0775f033f81c.png" height="500" width="230"/>
 <img src="https://user-images.githubusercontent.com/107529020/181400809-52895c3f-a64e-4376-b37f-4d7de9654c9a.png" height="500" width="230"/>
 
 
